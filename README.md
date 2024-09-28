@@ -9,7 +9,7 @@ This project is built with Next.js (App Router) and Tailwind CSS.
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/bilal-08/imaginai.git
+   git clone 
    cd imaginai
    ```
 
